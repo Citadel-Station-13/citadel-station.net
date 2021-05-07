@@ -1,0 +1,10 @@
+{
+  "name": "citadel-station.net",
+  "version": "0.0.1",
+  "description": "Citadel Station's Website",
+  "main": "index.js",
+  "repository": "https://github.com/Citadel-Station-13/citadel-station.net",
+  "author": "Citadel Maintainers",
+  "license": "MIT",
+  "private": true
+}
